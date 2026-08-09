@@ -1,6 +1,6 @@
 {
   "show_promo": true,
-  "promo_label": "ОБНОВЛЕНИЕ v2.0.0",
-  "promo_text": "<b>Доступна новая версия ProxyTune v2.0.0</b><br><br>• <b>Переход на Xray Core:</b> Модульная связка Xray + tun2socks с поддержкой gRPC и XTLS Reality.<br>• <b>Поддержка HWID:</b> Добавлена работа с подписками, использующими привязку к устройству.<br>• <b>Работа с JSON:</b> Чтение Xray-конфигураций напрямую из файлов формата .json.<br><br>Обновление доступно в Homebrew Channel (можно ставить поверх старой версии) или на сайте:<br>https://sobolevcode.github.io",
+  "promo_label": "ОБНОВЛЕНИЕ v2.0.2",
+  "promo_text": "<b>Доступна новая версия ProxyTune v2.0.2</b><br><br>• <b>Защита от вылетов:</b> Оптимизация памяти для стабильного YouTube 4K.<br>• <b>Авто-DNS:</b> Ручная смена на 1.1.1.1 больше не нужна.<br>• <b>Поддержка HWID:</b> Работа с приватными подписками.<br><br>Обновление доступно в Homebrew Channel (ставьте поверх) или на сайте:<br>https://sobolevcode.github.io",
   "promo_image": ""
 }
