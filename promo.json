@@ -4,7 +4,7 @@
   "promo_text": "<b>Доступна версия ProxyTune v2.2.1</b><br><br>• <b>Новое ядро:</b> Добавлена нативная поддержка протокола <b>AmneziaWG</b>!<br>• <b>Оптимизация UI:</b> Убраны эффекты размытия для плавной работы на ТВ.<br>• <b>Подписки:</b> Лимит увеличен до 1000 серверов, добавлена кнопка обновления.<br>• <b>Управление:</b> QR-код на экране для быстрого доступа со смартфона.",
   "promo_image": "",
   "show_promo2": true,
-  "promo2_label": "Поддержать проект",
-  "promo2_text": "<div style='margin-top: -15px;'><b>pay.cloudtips.ru/p/ce527a5c</b><br><img src='https://raw.githubusercontent.com/sobolevcode/sobolevcode.github.io/refs/heads/main/image/ctips.png' style='margin-top: 10px;' width='90' height='90'></div>",
+  "promo2_label": "Поддержать проект ProxyTune ☕",
+  "promo2_text": "<div style='display: flex; align-items: center; margin-top: -5px;'><img src='https://raw.githubusercontent.com/sobolevcode/sobolevcode.github.io/refs/heads/main/image/ctips.png' width='90' height='90' style='margin-right: 15px; flex-shrink: 0;'><div><span style='color: #8b949e; font-size: 0.9em; line-height: 1.4; display: inline-block; margin-bottom: 6px;'>Вы можете сказать «спасибо» разработчику, отправив любые чаевые через CloudTips.</span><br><b>pay.cloudtips.ru/p/ce527a5c</b></div></div>",
   "promo2_image": ""
 }
